@@ -56,3 +56,9 @@ Cache function results to speed up repeated computations.
 Search, match, and manipulate strings using pattern matching.
 
 
+We can also see an example:
+
+
+<img width="1118" height="68" alt="image" src="https://github.com/user-attachments/assets/5ab07a20-408c-4689-b3f1-e681d0c437d3" />
+
+
