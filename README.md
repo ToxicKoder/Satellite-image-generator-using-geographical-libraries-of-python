@@ -58,7 +58,18 @@ Search, match, and manipulate strings using pattern matching.
 
 We can also see an example:
 
-
+This is how we give the input
 <img width="1118" height="68" alt="image" src="https://github.com/user-attachments/assets/5ab07a20-408c-4689-b3f1-e681d0c437d3" />
+
+this is the output we will get 
+![WhatsApp Image 2025-09-28 at 23 36 51_ba9b7294](https://github.com/user-attachments/assets/24f004ee-eb85-42b0-bbbd-a10662e44350)
+
+after closing the image we can get the output as this
+![WhatsApp Image 2025-09-28 at 23 41 02_23aa3a5a](https://github.com/user-attachments/assets/77b7cb45-261e-4c00-888c-1bfb0519440e)
+
+I have also added a condition such that if yes then again the program will run and it will ask the user to enter the locality or the place name 
+If no then the program will exit.
+
+
 
 
